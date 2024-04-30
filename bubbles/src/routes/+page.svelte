@@ -54,9 +54,9 @@
     }
 
     p {
-        margin: 0; /* Remove default margin to fill the entire space */
+        margin: 5px; /* Remove default margin to fill the entire space */
         text-align: center; /* Center-align the text */
-        font-size: 48px;
+        font-size: 2vw;
         max-width: 100%; /* Ensure text doesn't overflow horizontally */
         max-height: 100%; /* Ensure text doesn't overflow vertically */
         overflow: hidden; /* Hide overflow text */
